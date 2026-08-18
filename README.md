@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">Computer Science student focused on cybersecurity. Currently learning JavaScript to better understand web architecture and vulnerabilities. Always exploring new tools, CTFs, and ways to break (and fix) things.</p>
+<p data-importer="text" align="center">Computer Science student building skills in offensive security (Red Team) with an eye on Purple Team. Learning Python for security scripting. Always in CTFs, breaking (and fixing) things.</p>
 
 ###
 
